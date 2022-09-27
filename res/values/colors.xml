@@ -119,7 +119,7 @@
     <!-- Secondary text color in the Phone app -->
     <color name="dialtacts_secondary_text_color">#737373</color>
 
-    <color name="shortcut_overlay_text_background">#7f000000</color>
+    <color name="shortcut_overlay_text_background">#7367F0</color>
 
     <color name="textColorIconOverlay">#fff</color>
     <color name="textColorIconOverlayShadow">#000</color>
